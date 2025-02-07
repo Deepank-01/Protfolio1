@@ -14,7 +14,7 @@ function ResumeNew() {
   useEffect(() => {
     setWidth(window.innerWidth);
   }, []);
-  const dow_cv="https://drive.google.com/file/d/11aG7QgBadauRqpkJCsqQIwMcsma7C1sc/view?usp=sharing"
+  const dow_cv="https://drive.google.com/file/d/1sJ7R0PaXLFbviPxVYv690cvsHSakDE7B/view?usp=sharing"
 
   return (
     <div>
