@@ -10,7 +10,6 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Deepank Singh  </span>
             <br />
-            I am currently employed as a software developer at Juspay.
             <br />
             I am currently in Final Year  at RGIPT .
             <br />
